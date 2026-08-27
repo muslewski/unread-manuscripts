@@ -1,4 +1,5 @@
-.claude/worktrees/
 node_modules/
+.claude/worktrees/
 .env
 PROGRESS.md
+.atlas-state.json

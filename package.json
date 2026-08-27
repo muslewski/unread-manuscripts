@@ -1,0 +1,17 @@
+{
+  "name": "unread-manuscripts",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Seed note: manuscripts machines cannot read yet, and the tools that would make them readable.",
+  "license": "MIT",
+  "author": "muslewski",
+  "type": "module",
+  "scripts": {
+    "atlas": "atlas",
+    "atlas:check": "atlas check",
+    "atlas:build": "atlas build"
+  },
+  "devDependencies": {
+    "memory-atlas": "^0.5.4"
+  }
+}
